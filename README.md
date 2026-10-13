@@ -6,6 +6,16 @@ The project focuses on order matching, partial order execution, trade recording,
 
 > **Note:** StockFlow is an educational exchange simulation. It does not connect to a real stock exchange or provide live market prices.
 
+* **Dashboards:** *
+  <img width="1875" height="1162" alt="Screenshot_13-10-2026_125621_localhost" src="https://github.com/user-attachments/assets/3f772896-883c-4ffd-b650-21a3ba0aa573" />
+
+
+<img width="1861" height="859" alt="Screenshot_13-10-2026_125534_localhost" src="https://github.com/user-attachments/assets/b5d2f196-394e-4665-a474-1ee35c356b3e" />
+
+
+<img width="1890" height="831" alt="Screenshot_13-10-2026_125453_localhost" src="https://github.com/user-attachments/assets/76765af6-ce71-4079-9acf-59d8b5bccd44" />
+
+
 ## Features
 
 * **Order Matching Engine:** Processes compatible buy and sell orders.
